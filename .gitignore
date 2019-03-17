@@ -4,4 +4,5 @@
 /.ipython
 /.jupyter
 /.local
+/.idea
 .bash_history
